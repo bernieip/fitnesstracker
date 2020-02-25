@@ -130,7 +130,7 @@ form::after {
 }
 
 .d-none {
-  display: none !important;
+  display: none;
 }
 
 .exercise .ui.card {
